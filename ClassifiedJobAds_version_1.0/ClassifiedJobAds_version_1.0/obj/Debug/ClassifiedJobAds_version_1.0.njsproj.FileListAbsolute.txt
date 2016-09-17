@@ -1,0 +1,2 @@
+E:\VS_workspace\ClassifiedJobAds_version_1.0\ClassifiedJobAds_version_1.0\obj\Debug\ClassifiedJobAds_version_1.0.njsprojResolveAssemblyReference.cache
+E:\VS_workspace\ClassifiedJobAds_version_1.0\ClassifiedJobAds_version_1.0\bin\Microsoft.NodejsTools.WebRole.dll

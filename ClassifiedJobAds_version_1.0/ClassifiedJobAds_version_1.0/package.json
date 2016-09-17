@@ -1,0 +1,9 @@
+{
+  "name": "classified-job-ads_version_1.0",
+  "version": "0.0.0",
+  "description": "ClassifiedJobAds_version_1.0",
+  "main": "app.js",
+  "author": {
+    "name": "thien_000"
+  }
+}
